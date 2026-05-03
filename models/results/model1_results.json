@@ -1,0 +1,7 @@
+{
+    "model": "TF-IDF + Cosine Similarity",
+    "accuracy": 0.6285399680799733,
+    "precision": 0.4972503335394227,
+    "recall": 0.5118405627198124,
+    "f1_score": 0.5044399696299475
+}
