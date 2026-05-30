@@ -6,3 +6,11 @@ env/
 .ipynb_checkpoints/
 *.log
 *.tmp
+# Large data files
+data/raw/pan-plagiarism-corpus-2011/
+data/raw/quora/
+data/processed/master.csv
+data/processed/pan_train.csv
+data/processed/pan_test.csv
+data/processed/pan_val.csv
+data/processed/quora_train.csv
