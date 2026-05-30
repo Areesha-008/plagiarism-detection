@@ -273,4 +273,4 @@ All experiments were conducted on **Google Colab** with a single **NVIDIA A100 G
 ## Acknowledgements
 
 We thank the National University of Computer and Emerging Sciences for providing computational resources, and the maintainers of the PAN-PC-11 corpus and the Quora Question Pairs dataset. We also acknowledge the open-source contributors behind PyTorch, scikit-learn, the Hugging Face `sentence-transformers` library, and the GloVe project.
->>>>>>> 38bd3da65bc6219ef3afb647c7a37246c579239a
+
